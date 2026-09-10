@@ -65,7 +65,3 @@ To start the production server:
 ```bash
 pnpm run start
 ```
-
-## License
-
-This project is licensed under the MIT License.
